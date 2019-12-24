@@ -37,7 +37,7 @@ function creatDiv(tempJSON) {
     volant.appendChild(menu);
 
     var img = document.createElement('img');
-    img.src = tempJSON.weather[0].main + ".png";
+    img.src ="images/"+ tempJSON.weather[0].main + ".png";
     console.log(tempJSON.weather[0].main);
     menu.appendChild(img);
 
