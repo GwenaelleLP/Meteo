@@ -1,0 +1,60 @@
+<img src="[Principales-Villes] (importée)" width="1140" height="1300" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:gwena -->
+<area shape="circle" coords="619,63,9" target="dunkerque" href="dunkerque" />
+<area shape="circle" coords="642,127,9" target="bethune" href="bethune" />
+<area shape="circle" coords="677,110,9" target="lille" href="lille" />
+<area shape="circle" coords="713,146,9" target="valences" href="valences" />
+<area shape="circle" coords="669,142,9" target="douai-lens" href="douai-lens" />
+<area shape="circle" coords="616,206,9" target="amiens" href="amiens" />
+<area shape="circle" coords="514,264,8" target="rouen" href="rouen" />
+<area shape="circle" coords="436,258,9" target="le havre" href="le havre" />
+<area shape="circle" coords="396,296,11" target="caen" href="caen" />
+<area shape="circle" coords="619,336,9" target="paris" href="paris" />
+<area shape="circle" coords="46,375,9" target="brest" href="brest" />
+<area shape="circle" coords="281,422,10" target="rennes" href="rennes" />
+<area shape="circle" coords="135,465,9" target="lorient" href="lorient" />
+<area shape="circle" coords="231,527,9" target="saint-nazaire" href="saint-nazaire" />
+<area shape="circle" coords="285,537,9" target="nantes" href="nantes" />
+<area shape="circle" coords="373,509,9" target="angers" href="angers" />
+<area shape="circle" coords="479,520,9" href="tours" />
+<area shape="circle" coords="438,445,9" target="le mans" href="le mans" />
+<area shape="circle" coords="581,460,9" target="orleans" href="orleans" />
+<area shape="circle" coords="445,624,9" target="poitiers" href="poitiers" />
+<area shape="circle" coords="312,675,10" target="la rochelle" href="la rochelle" />
+<area shape="circle" coords="524,720,9" target="limoges" href="limoges" />
+<area shape="circle" coords="426,739,9" target="angouleme" href="angouleme" />
+<area shape="circle" coords="686,728,9" target="clermont-ferrand" href="clermont-ferrand" />
+<area shape="circle" coords="360,841,9" target="bordeaux" href="bordeaux" />
+<area shape="circle" coords="271,1010,9" target="bayonne" href="bayonne" />
+<area shape="circle" coords="370,1036,8" target="pau" href="pau" />
+<area shape="circle" coords="537,1000,8" target="toulouse" href="toulouse" />
+<area shape="circle" coords="761,999,9" target="montpellier" href="montpellier" />
+<area shape="circle" coords="671,1116,10" target="perpignan" href="perpignan" />
+<area shape="circle" coords="952,1055,10" target="toulon" href="toulon" />
+<area shape="circle" coords="803,966,9" target="nimes" href="nimes" />
+<area shape="circle" coords="845,951,8" href="avignon" />
+<area shape="circle" coords="900,1018,9" target="marseille" href="marseille" />
+<area shape="circle" coords="1071,975,9" target="nice" href="nice" />
+<area shape="circle" coords="922,796,10" target="grenoble" href="grenoble" />
+<area shape="circle" coords="849,829,9" target="valence" href="valence" />
+<area shape="circle" coords="802,769,9" href="saint-etienne" />
+<area shape="circle" coords="840,728,8" target="lyon" href="lyon" />
+<area shape="circle" coords="952,702,9" target="annecy" href="annecy" />
+<area shape="circle" coords="956,666,8" target="genneve" href="genneve" />
+<area shape="circle" coords="851,526,8" target="dijon" href="dijon" />
+<area shape="circle" coords="936,533,10" target="besancon" href="besancon" />
+<area shape="circle" coords="1003,495,9" target="montbeliard" href="montbeliard" />
+<area shape="circle" coords="1042,463,8" target="mulhouse" href="mulhouse" />
+<area shape="circle" coords="938,350,10" target="nancy" href="nancy" />
+<area shape="circle" coords="1074,356,10" target="strasbourg" href="strasbourg" />
+<area shape="circle" coords="937,296,10" target="metz" href="metz" />
+<area shape="circle" coords="933,266,10" target="thionville" href="thionville" />
+<area shape="circle" coords="760,284,9" target="reims" href="reims" />
+<area shape="circle" coords="767,406,9" target="troyes" href="troyes" />
+</map>

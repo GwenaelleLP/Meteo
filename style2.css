@@ -1,0 +1,46 @@
+#info {
+    position: absolute;
+    margin: auto;
+    padding: 2%;
+    width: 50%;
+    height: auto;
+    background-color: grey;
+    color: blanchedalmond;
+    font-size: 20px;
+    top: 35%;
+    left: 20%;
+    opacity: .85;
+    border-radius: 50%;
+    text-align: center;
+}
+
+#info h1 {
+    text-align: center;
+    color: rgb(252, 213, 156);
+}
+
+#info button {
+    color: rgb(250, 197, 117);
+    background-color: grey;
+    border: none;
+    width: auto;
+    font-size: 18px;
+}
+
+#info p {
+    padding-left: 10%;
+    text-align: left;
+}
+
+#info img {
+    width: 100px;
+    align-items: left;
+    padding: 0 2%;
+    /* border:2px solid rgb(102, 102, 102);
+    border-radius: 50%; */
+}
+
+#contenue {
+    display: flex;
+    flex-direction: row;
+}
